@@ -9,7 +9,7 @@ I have experience across the entire software development lifecycle — from requ
 - 🎓 Studying Applied Informatics at Ural Federal University.
 - ⚙️ Interested in backend architecture, application security, and performance optimization.
 - 🌍 English: B2.
-- 💼 Open to Python Backend Developer opportunities in product teams.
+- 💼 I am currently working as a Python Backend Developer.
 
 ## Tech Stack
 
