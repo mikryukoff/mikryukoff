@@ -50,6 +50,9 @@ I have experience across the entire software development lifecycle — from requ
 
 Industrial document automation platform developed from scratch for an engineering company under NDA.
 
+![60–120× faster](https://img.shields.io/badge/Document_preparation-60%E2%80%93120%C3%97_faster-2EA44F?style=for-the-badge)
+![80–90% less manual work](https://img.shields.io/badge/Manual_effort-80%E2%80%9390%25_less-2EA44F?style=for-the-badge)
+
 - Accelerated pipeline documentation preparation by **60–120×**, reducing processing time from one hour to under one minute.
 - Reduced manual engineering effort by **80–90%** through automated data extraction from PDF, Excel, and Word documents.
 - Implemented a REST API with JWT authentication, role-based access control, and audit logging for a team of four engineers.
@@ -61,6 +64,8 @@ Industrial document automation platform developed from scratch for an engineerin
 
 AI-powered English learning service with a Python backend.
 
+![100+ concurrent users](https://img.shields.io/badge/Concurrent_users-100%2B-2EA44F?style=for-the-badge)
+
 - Built a backend supporting **100+ concurrent users**.
 - Integrated an AI model from Hugging Face and implemented JWT authentication.
 - Configured containerization and database migrations.
@@ -70,6 +75,9 @@ AI-powered English learning service with a Python backend.
 ### [Internships Parser](https://github.com/mikryukoff/InternshipsParser)
 
 Job and internship aggregation platform with automated data collection and Telegram notifications.
+
+![10,000+ job listings](https://img.shields.io/badge/Job_listings-10%2C000%2B-2EA44F?style=for-the-badge)
+![5 career platforms](https://img.shields.io/badge/Career_platforms-5-2EA44F?style=for-the-badge)
 
 - Developed an ETL pipeline to collect, clean, and deduplicate **10,000+ job listings** from five career platforms.
 - Implemented a REST API and a Telegram bot for new internship notifications.
